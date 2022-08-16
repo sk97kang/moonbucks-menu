@@ -4,7 +4,12 @@
 
 # History
 
-- 2022. 8.  16. 완료
+[2022.08.16] 완료
+
+# 자료
+
+[강의 설명](https://github.com/sk97kang/moonbucks-menu/blob/main/LECTURE.md)
+[강의 자료](https://github.com/sk97kang/moonbucks-menu/blob/main/LINK.md)
 
 # 프로그래밍 방법
 
